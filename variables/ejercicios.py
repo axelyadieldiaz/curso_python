@@ -18,8 +18,8 @@ class twitterApi:
     URL_API = 'https://api.twitter.com'
 
 ## constantes y como se declara en python
-##no hay constantes en pyehon, pero si hay forma de declarar una constante y esperar a que los demas respenten. al final. la constante sera una variable pero con un
-##nombre caracteristico 
+##no hay constantes en python, pero si hay forma de declarar una constante y esperar a que los demas respenten. al final. la constante 
+##sera una variable pero con un nombre caracteristico 
 VERSION_DE_MI_PROGRAMA = "1.2.1.3"
 ##Algunos ejemplos de constantes que a veces uso son:
 
